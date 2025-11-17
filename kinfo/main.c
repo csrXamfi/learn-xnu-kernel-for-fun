@@ -1,12 +1,3 @@
-//
-//  main.c
-//  ke
-//
-//  Created by mikhail on 15.11.2025.
-//
-
-
-
 #include "libkextrw.h"
 #include <mach/mach.h>
 #include <stdint.h>
