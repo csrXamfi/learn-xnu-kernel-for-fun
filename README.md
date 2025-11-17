@@ -31,6 +31,7 @@ kernel_task: 0xFFFFFE28D7F56B70
 ===Proc info===
 Our proc: 0xFFFFFE28D60DE3D0
 Our task: 0xFFFFFE28D60DEB70
+
 For sudo output: 
 ===Kernel kaslr bypass info===
 KernelCache slide: 0x25664000
