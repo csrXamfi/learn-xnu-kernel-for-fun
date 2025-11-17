@@ -1,6 +1,5 @@
 # learn-xnu-kernel-for-fun
-This application displays basic information about the kernel. 
-
+This application displays basic information about the kernel. I use KextRW.
 ```bash
 brew install ldid -Sent.plist
 ldid -Sent.plist kinfo
