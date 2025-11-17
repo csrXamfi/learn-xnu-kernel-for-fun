@@ -1,10 +1,3 @@
-//
-//  offsetsKrnl.h
-//  ke
-//
-//  Created by mikhail on 15.11.2025.
-//
-
 #ifndef offsetsKrnl_h
 #define offsetsKrnl_h
 #define STATIC_KERNEL_BASE (0xFFFFFE0007004000)
